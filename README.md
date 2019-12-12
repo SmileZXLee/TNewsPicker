@@ -2,7 +2,8 @@
 <h1 align="center">
   <img src="http://www.zxlee.cn/github/TNewsPicker/TNewsPicker.png" width="150" height="150"/>
 </h1> 
-### 功能
+
+### 功能  
 * 腾讯新闻视频提取
 * 在QQ或微信中点击到新闻详情页面，点击右上角，点击【复制链接】
 * 打开TNewsPicker即可自动填充，点击提取解析标题和视频地址
