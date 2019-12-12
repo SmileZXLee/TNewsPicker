@@ -1,0 +1,9 @@
+
+.main-text-color{
+	color: #13227a;
+}
+.main-bac-color{
+	background-color: #13227a;
+	color: white;
+}
+
